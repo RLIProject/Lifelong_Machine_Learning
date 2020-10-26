@@ -1,2 +1,2 @@
 # Lifelong_Machine_Learning
-Notes on Lifelong Machine Learning 
+https://www.cs.uic.edu/~liub/IJCAI15-tutorial.html
